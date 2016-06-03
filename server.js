@@ -10,7 +10,7 @@ var pattern = new RegExp('\\b'+word+'\\b','gi');
 
 for(var i=0; i<data.length; i++){
   
-  console.log(data[i]);
+  console.log("hello");
   
   var str = pattern.exec(data[i]);
   
