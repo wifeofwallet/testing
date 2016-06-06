@@ -24,3 +24,6 @@ Once the server is running, open the project in the shape of 'https://projectnam
 
 through wifeOfWallet i'll move upward.
 hello, this vs1682 trying git rebase.
+Hello everyone this vs1682 learning git rebase.
+
+now adding one more commit.
